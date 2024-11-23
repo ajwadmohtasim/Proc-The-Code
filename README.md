@@ -1,2 +1,2 @@
-# comp-prog
-Competitive Programming Problems
+# PROC THE CODE
+All of my programming dumps :V
