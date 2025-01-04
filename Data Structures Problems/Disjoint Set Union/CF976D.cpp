@@ -26,7 +26,7 @@ void solve() {
         parent[i] = i;
     }
     ll components = n;
-    vector<ll> size(n+1, 0);
+    vector<ll> size(n+1, 1);
     vector<vector<ll>> dp(n+1, vector<ll>(10+1, 0));
     for (ll i = 0; i < m; i++) {
         ll a, d, k; cin >> a >> d >> k;
